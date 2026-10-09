@@ -1,1 +1,2 @@
-10
+#!/bin/bash      
+echo 10

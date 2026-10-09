@@ -1,1 +1,3 @@
-8
+#!/bin/bash      
+echo 8
+bash count9.sh

@@ -1,1 +1,3 @@
-3
+#!/bin/bash      
+echo 3
+bash count4.sh
