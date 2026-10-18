@@ -1,4 +1,4 @@
 #!/bin/bash 
-echo ONE(1)
+echo 1(One)
 bash count2.sh
 
